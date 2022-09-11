@@ -1,0 +1,218 @@
+[
+    {
+        "id":"1",
+        "name_of_recipe": "Thai Chicken Fried Rice",
+        "image_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-202101-thaifriedrice-047-ls-1611613162.jpg?crop=0.668xw:1.00xh;0.153xw,0&resize=640:*",
+        "url": "https://www.delish.com/cooking/recipe-ideas/a35035252/thai-fried-rice-recipe/",
+        "ingredients":["rice", "chicken","red chilis", "garlic", "ginger", "onions", "eggs", "fish sauce"],
+        "filters": ["asian"],
+        "steps":"1. Combine chilis and fish sauce. Season chicken with salt and peper and cook chicken 5 minutes. 2. Cook carrots, garlic, green onions and giner. Add rice and fish sauce. 3. Beat eggs on the side and combine with rice. 4. Serve"
+    },
+    {
+        "id":"2",
+        "name_of_recipe": "Shrimp Scampi",
+        "image_url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-shrimp-scampi-093021-04-jg-1634050863.jpg?resize=640:*",
+        "url": "https://www.delish.com/cooking/recipe-ideas/a37612604/classic-shrimp-scampi-recipe/",
+        "ingredients":["shrimp", "garlic", "butter", "bread crumbs", "lemon", "white wine"],
+        "filters": ["pescatarian"],
+        "steps":"1. Toss shrimp and garlic together and season with salt and pepper. 2. Melt butter on small skillet and cook garlic until fragrant. Stir in breadcrumbs until golden brown and add lemon zest and salt. 4. Cook shrimp until pink and add white wine, lemon juice and zest. Cook until reduced by about a third. 5. Serve"
+    },
+    {
+        "id":"3",
+        "name_of_recipe": "Instant Pot Lentil Soup",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2021/10/instant-pot-lentil-soup-1024x687.jpg",
+        "url": "https://www.loveandlemons.com/instant-pot-lentil-soup/#wprm-recipe-container-60367",
+        "ingredients":["onion", "celery", "carrot", "kale", "garlic", "canned tomatoes", " lentils", "vegetable broth"],
+        "filters": ["vegetarian"],
+        "steps":"1. Add onion, celery and carrots to your Instant Pot and cook for 8 minutes. 2. Add kale, farlic, tomatoes, lentils, and any spices to the pot and cook on high for 15 minutes. 3. Let Instant Pot relase pressure naturally: about 20-30 minutes. Then serve."
+    },
+    {
+        "id":"4",
+        "name_of_recipe": "Easy Pesto Pasta",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2018/01/pesto-pasta-recipe.jpg",
+        "url": "https://www.loveandlemons.com/pesto-pasta/",
+        "ingredients":["pesto", "pasta"],
+        "filters": ["vegetarian"],
+        "steps":"1. Cook pasta according to package. 2. Drain pasta and reserve 1/4 cup of pasta water. 3. Add pasta to pesto and pasta water. Mix thoroughly. 4. Add desired spices and serve. "
+    },
+    {
+        "id":"5",
+        "name_of_recipe": "One Pan Lemon Garlic Salmon and Asparagus",
+        "image_url": "https://gimmedelicious.com/wp-content/uploads/2016/03/lemon-garlic-salmon-asparagusi-21-of-23.jpg",
+        "url": "https://www.loveandlemons.com/pesto-pasta/",
+        "ingredients":["salmon", "asparagus", "lemon", "garlic"],
+        "filters": ["pescatarian"],
+        "steps":"1. Heat up butter and oil. When hot, add in salmon and asparagus. Season with desired seasoning and cook for 3-4 minutes on each side. 2. Add garlic and lemon zest. Squueze lemon juice on the salmon and serve. "
+    },
+    {
+    	"id": "6",
+    	"name_of_recipe": "Scrambled Eggs",
+    	"image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2021/05/scrambled-eggs-580x363.jpg",
+    	"url": "https://www.loveandlemons.com/scrambled-eggs-recipe/",
+        "ingredients":["eggs", "milk", "water", "butter", "salt", "pepper"],
+        "filters": ["vegetarian", "pescatarian", "american"],
+        "steps":"1. Beat the eggs. 2. Gently preheat the pan. 3.Pour in the egg mixture and let it cook for a few seconds. 4. Continue cooking over midum-low heat, folding and stirring the eggs every few seconds. 5. Stop when the eggs are mostly set with a little liquid egg remains."
+    },
+    {
+    	"id":"7",
+    	"name_of_recipe":"Sunny-Side-Up Eggs",
+    	"image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2020/03/how-to-make-sunny-side-up-eggs.jpg",
+    	"url": "https://www.loveandlemons.com/sunny-side-up-eggs/",
+    	"ingredients": ["eggs", "butter"],
+    	"filters": ["vegetarian", "pescatarian", "amerrican"],
+    	"steps": "1. Crack each egg into an individual bowl or ramekin. 2. Cook them low and slow. 3. Cover the pan until the whites are set but the yolks are still runny."
+    },
+    {
+    	"id": "8",
+    	"name_of_recipe": "Poached Eggs",
+    	"image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2021/03/poached-eggs-1.jpg",
+    	"url": "https://www.loveandlemons.com/poached-eggs/",
+    	"ingredients": ["egg", "vinegar"],
+    	"filters": ["vegetarian", "pescatarian"],
+    	"steps": "1. Crack an egg into a small bowl or ramekin. 2. Next, bring a medium pot of water to a gentle boil. 3. Add a tablespoon of white wine vinegar and stir. 4. Simmer"
+    },
+    {
+    	"id": "9",
+    	"name_of_recipe": "Frittata",
+    	"image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2019/04/frittata.jpg",
+    	"url": "https://www.loveandlemons.com/frittata-recipe/",
+    	"ingredients": ["mushroom", "tarragon", "eggs", "milk", "garlic", "salt", "pepper", "cheese"],
+    	"filters": ["vegetarian", "pescatarian", "american"],
+    	"steps": "1. Whisk together the frittata base: a simple mixture of eggs, milk, garlic, salt, and pepper. 2. Saute veggies until tender. 3. Add spices and pour in the frittata base. 4. Shake the pan gently to distribute the eggs among the vegetables. 4. Sprinkle your frittata with cheese and transfer the pan to a 400-degree oven. 5. Bake for 15-20 minutes or until the eggs are set and the top is lightly golden around the edges. 6. Allow the frittata to cool slightly before slicing."
+    },
+    {
+    	"id": "10",
+    	"name_of_recipe": "Shakshuka",
+    	"image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2017/01/shakshuka.jpg",
+    	"url": "https://www.loveandlemons.com/shakshuka-recipe/",
+    	"ingredients": ["oil", "onion", "bell pepper", "salt", "pepper", "garlic", "paprika", "cumin", "tomato", "harissa paste", "spinach", "egg", "cheese", "parsley", "avocado"],
+    	"filters": ["vegetarian", "pescatarian", "middle eastern", "african"],
+    	"steps": "1. Heat the oil over medium heat. 2. Add the onion, red pepper, salt, and pepper and cook until the onion is soft and translucent. 3. Reduce the heat to medium-low and add the garlic, paprika, cumin, and cayenne. 4. Simmer for 15 minutes until the sauce is thickened. 5. Add the spinach and stir until wilted. 6. Add the eggs and cover and cook the eggs until set. 7. Season with salt and pepper and sprinkle with the cheese and avocado"
+    },
+    {
+    	"id": "11",
+    	"name_of_recipe": "Breakfast Burrito",
+    	"image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2019/06/breakfast-burrito.jpg",
+    	"url": "https://www.loveandlemons.com/breakfast-burrito/",
+    	"ingredients": ["potato", "oil", "paprika", "bell pepper", "tortillas", "spinach", "eggs", "beans", "avocado", "cilantro", "pepper"],
+    	"filters": ["american", "mexican", "vegetarian", "pescatarian"],
+    	"steps": "1. Preheat the oven to 425 degrees F. 2. Season the potatoes with oil, salt, pepper, paprika, and pepper. 3. Bake for 30 minutes. 4. Grill the red pepper on the pan and let it char for 4-5 minutes per side. 5. Make scramble eggs. 6. Assemble the burrito."
+    },
+     {
+    	"id":"12",
+        "name_of_recipe": "Cream of Mushroom Soup",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2018/11/cream-of-mushroom-soup.jpg",
+        "url": "https://www.loveandlemons.com/cream-of-mushroom-soup/",
+        "ingredients":["mushrooms", "garlic", "celery", "dijon mustard", "vegetable broth", "salt", "pepper"],
+        "filters": ["vegan", "vegetarian", "pescatarian"],
+        "steps": "1. Heat the oil in a large pot or Dutch oven over medium heat. Add the leeks, celery, and ¼ teaspoon salt and cook 5 minutes, stirring occasionally. Add the mushrooms and cook until soft, 8 to 10 minutes more. 2. Stir in the tamari, wine, garlic, and thyme and cook for 30 seconds to 1 minute, or until the wine has evaporated. Add the broth and the cauliflower. 3. Simmer uncovered for 20 minutes, or until the cauliflower is very soft. Transfer to a blender, add the mustard and vinegar, and blend until smooth. If your soup is too thick, add a little bit of water to the blender to reach a creamy consistency. Season to taste and serve with desired toppings."
+    },
+    {
+    	"id":"13",
+        "name_of_recipe": "Black Bean Chili",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2021/10/black-bean-chili-1.jpg",
+        "url": "https://www.loveandlemons.com/black-bean-chili/",
+        "ingredients":["onion", "red bell pepper", "garlic", "chili powder", "black beans", "tomatoes", "green chiles", "pepper", "lime"],
+        "filters": ["vegan", "vegetarian", "pescatarian"],
+        "steps": "1. Heat the oil in a large pot over medium heat. Add the onion, bell pepper, and salt and cook, stirring occasionally, until the onion is translucent, 5 to 8 minutes. Add the garlic and chili powder and cook, stirring, for 30 seconds, until fragrant. 2. Add the beans, bean liquid, tomatoes, green chiles, maple syrup, and a few grinds of pepper. Reduce the heat to low and simmer uncovered for 20 minutes, stirring occasionally, until the chili has thickened. 3. Stir in the lime juice and season to taste with more salt, pepper, chili powder, and cayenne, if desired. Serve with lime wedges and desired toppings."
+    },
+    {
+    	"id":"14",
+        "name_of_recipe": "Sweet Potato Soup",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2021/09/sweet-potato-soup.jpg",
+        "url": "https://www.loveandlemons.com/sweet-potato-soup/",
+        "ingredients":["onion", "salt", "pepper", "potatoes", "apple", "garlic", "ginger", "vegetable broth", "coconut milk"],
+        "filters": ["vegan", "vegetarian", "pescatarian"],
+        "steps": "1. Heat the oil in a large pot over medium heat. Add the onion, salt, and several grinds of fresh pepper and sauté until soft, 5 to 8 minutes. Add the sweet potatoes and the apple and cook until they begin to soften, stirring occasionally, about 8 to 10 minutes. 2. Add the garlic, ginger, coriander, and smoked paprika, and stir. Stir in the apple cider vinegar and then 3 cups of the broth and the coconut milk. Bring to a boil, cover, and reduce the heat to a simmer. Cook until the potatoes are tender, 20 to 30 minutes. 3. Let cool slightly and pour the soup into a blender, working in batches if necessary, and blend until smooth. If your soup is too thick, add up to 1 cup more broth and blend. Season to taste and top with a swirl of coconut milk, pepitas, cilantro, and Aleppo pepper, if desired. Serve with crusty bread."
+    },
+    {
+    	"id":"15",
+        "name_of_recipe": "Cold Cucumber Soup",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2021/07/cucumber-soup-1.jpg",
+        "url": "https://www.loveandlemons.com/cold-cucumber-soup/",
+        "ingredients":["cucumber", "greek yogurt", "basil", "lemon juice", "garlic", "honey", "salt", "pepper"],
+        "filters": ["vegetarian", "pescatarian"],
+        "steps": "1. In a blender, combine the cucumbers, yogurt, basil, olive oil, lemon juice, dill, garlic, salt, honey, and several grinds of pepper and blend until smooth. Chill for at least 4 hours. 2. Serve in bowls and garnish with the reserved cucumber slices, fresh herbs, drizzles of olive oil, and freshly ground black pepper."
+    },
+    {
+    	"id":"16",
+        "name_of_recipe": "Creamy Asparagus Soup",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2019/05/asparagus-soup1.jpg",
+        "url": "https://www.loveandlemons.com/asparagus-soup/",
+        "ingredients":["scallions", "potatoes", "garlic", "salt", "pepper", "asparagus", "peas", "dijon mustard", "lemon juice", "basil"],
+        "filters": ["vegan", "vegetarian", "pescatarian"],
+        "steps": "1. Make the mint & pine nut topping by chopping together the pine nuts, mint, red pepper flakes, and salt. Set aside. 2. Heat the oil in a medium pot over medium heat. Add the scallions and cook for 1 to 2 minutes, or until soft. Add the potatoes, garlic, salt, pepper, and water and simmer for 12 minutes or until the potatoes are fork-tender. 3.Add the asparagus to the pot of potatoes and continue simmering for 5 more minutes. Remove the pot from the heat and let cool for 5 minutes. Stir in the peas and then transfer the soup to a blender. Add the mustard, lemon juice, and lemon zest and blend until creamy. Add the basil and blend until combined. Season to taste. 4. Portion the soup into bowls and sprinkle with the mint & pine nut topping, drizzles of olive oil, and a few sprigs of fresh mint, if desired. Serve with crusty bread."
+    },
+    {
+    	"id":"17",
+        "name_of_recipe": "Potato Leek Soup",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2021/03/potato-leek-soup-1.jpg",
+        "url": "https://www.loveandlemons.com/potato-leek-soup/",
+        "ingredients":["leeks", "salt", "garlic", "vinegar", "vegetable broth", "potatoes", "beans", "lemon juice", "dijon mustard", "pepper", "nuts"],
+        "filters": ["vegan", "vegetarian", "pescatarian"],
+        "steps": "1. Heat 2 tablespoons olive oil in a large pot or Dutch oven over medium heat. Add the leeks, salt, and several grinds of pepper. Sauté for 6 to 8 minutes, until softened. 2. Add the garlic, stir, and cook for 2 more minutes. Stir in the white wine vinegar and cook, stirring, for 30 seconds, and then add the broth, potatoes, and white beans. Bring to a boil, reduce the heat, and simmer, uncovered, for 30 minutes. 3. Let cool slightly, then transfer the soup to a blender with the remaining 1 tablespoon olive oil, the lemon juice, and the mustard. Blend until smooth. Work in batches if necessary. Season to taste and serve with chopped parsley, pine nuts, red pepper flakes, and drizzles of additional olive oil, if desired."
+    },
+    {
+    	"id":"18",
+        "name_of_recipe": "French Onion Soup",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2019/12/french-onion-soup-recipe.jpg",
+        "url": "https://www.loveandlemons.com/french-onion-soup/",
+        "ingredients":["onions", "salt", "vinegar", "thyme", "garlic", "flour", "white wine", "vegetable broth", ""],
+        "filters": ["french", "vegan", "vegetarian", "pescatarian"],
+        "steps": "1. Heat the oil in a large pot or Dutch oven over medium heat. Add the onions, salt, and several grinds of pepper and toss to combine. Reduce the heat to low and cook for about 40 minutes, stirring every few minutes, or until the onions are very soft. Increase the heat to medium and cook 15 to 20 more minutes, stirring often, until golden brown. Add the vinegar, tamari, thyme, and garlic and stir. Sprinkle the flour on the onions, stir, and cook for 2 minutes. Stir in the wine and cook 2 minutes, or until evaporated. Add the broth and simmer over medium heat for 30 minutes. 2. Preheat the oven to 450°F and line a baking sheet with parchment paper. Place the baguette slices, topped with cheese, on the baking sheet and bake until the slices are toasted and the cheese is melted, 8 to 10 minutes. 3. Ladle the soup into ramekins or bowls and top each with a toasted baguette piece, fresh thyme, and a pinch of red pepper flakes, if desired."
+    },
+    {
+        "id":"19",
+        "name_of_recipe": "Russian Pelmeni (Meat Dumplings)",
+        "image_url": "https://cdn.loveandlemons.com/wp-content/uploads/2020/12/steamed-dumplings-recipe.jpg",
+        "url": "https://momsdish.com/recipe/76/pelmeni",
+        "ingredients":["milk", "flour", "beef", "garlic", "pork", "water", "eggs", "salt"],
+        "filters": ["carnivore", "russian"],
+        "steps":"1. Add water, flour, eggs, salt to a bowl. Mix it. 2. Add garlic and salt to beef and pork mix. 3. Make dumplings and put the meat mixture there. Ready! "
+    },
+    {
+        "id":"20",
+        "name_of_recipe": "Napolean Cake",
+        "image_url": "https://www.thespruceeats.com/thmb/Eq2_5VwAHLyhHecSQ93uPkqkoZk=/940x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/russian-napoleon-cake-napolyeon-tort-recipe-1137297-hero-01-32a3990d99ff4cf5a1d83db60deb98ef.jpg",
+        "url": "https://www.thespruceeats.com/russian-napoleon-cake-napolyeon-tort-recipe-1137297",
+        "ingredients":["milk", "flour", "sugar", "sour cream","butter", "eggs"],
+        "filters": [],
+        "steps":"1. Beat together the butter and sugar together until creamy.Fold in the sour cream, stiffly beaten egg whites, vodka, and salt. 2. Bake each circle of pastry until golden brown, about 6 to 10 minutes. If dough bubbles as it cooks, pierce with a fork. 3. Pour the milk into a large saucepan and heat, but do not boil. In a large bowl, beat together the egg yolks, egg white, and sugar until creamy. 4. Add the butter and vanilla and stir until smooth. 5. Assemble the Torte."
+    },
+    {
+        "id":"21",
+        "name_of_recipe": "Borscht",
+        "image_url": "https://natashaskitchen.com/wp-content/uploads/2018/10/Borscht-Recipe-3.jpg",
+        "url": "https://natashaskitchen.com/classic-russian-borscht-recipe/",
+        "ingredients":["beet", "water", "oil", "chicken","potato", "carrot", "onion"],
+        "filters": ["russian"],
+        "steps":"1. Slice vegetables. 2. Heat a large soup pot (5 1/2 Qt or larger) over medium/high heat and add 2 Tbsp olive oil. Add grated beets and sauté 10 minutes, stirring occasionally until beets are softened. 3. Add sliced potatoes and sliced carrots then cook for 10-15 minutes or until easily pierced with a fork. 4. While potatoes are cooking, place a large skillet over medium/high heat and add 2 Tbsp oil. Add chopped onion, celery and bell pepper. Saute stirring occasionally until softened and lightly golden (7-8 minutes). Add 4 Tbsp Ketchup and stir fry 30 seconds then transfer to the soup pot to continue cooking with the potatoes. 5. When potatoes and carrots reach desired softness, add 1 can of beans with their juice, 2 bay leaves, 2-3 Tbsp white vinegar, 1 tsp salt, 1/4 tsp black pepper, 1 pressed garlic clove, and 3 Tbsp chopped dill. Simmer for an additional 2-3 minutes and add more salt and vinegar to taste."
+    },
+    {
+        "id":"22",
+        "name_of_recipe": "Banana Bread",
+        "image_url": "https://natashaskitchen.com/wp-content/uploads/2018/05/Banana-Bread-Recipe-6.jpg",
+        "url": "https://natashaskitchen.com/banana-bread-recipe-video/",
+        "ingredients":["flour", "sugar", "salt", "baking soda", "vanilla extract", "butter", "eggs", "bananas"],
+        "filters": ["american", "vegetarian"],
+        "steps": "1. In the mixing bowl, cream together butter and sugar. 2. Mix in mashed bananas and eggs. 3. Whisk together dry ingredients: flour, salt, and baking soda and add to batter. 4. Stir in vanilla, walnuts, and raisins, transfer to prepared loaf pan and bake."
+    },
+    {
+        "id":"23",
+        "name_of_recipe": "Hot Creamy Cocoa",
+        "image_url": "https://img.buzzfeed.com/video-api-prod/assets/89368e479e5a49eca1295227abdd3a95/Hot_Chocolate_C.jpg",
+        "url": "https://www.allrecipes.com/recipe/20211/creamy-hot-cocoa/",
+        "ingredients":["cocoa", "sugar", "salt", "half and half", "milk"],
+        "filters": ["american", "vegetarian"],
+        "steps": "1. Combine the cocoa, sugar and pinch of salt in a saucepan. 2. Blend in the boiling water. Bring this mixture to an easy boil while you stir. Simmer and stir for about 2 minutes. Watch that it doesn't scorch. 3. Stir in 3 1/2 cups of milk and heat until very hot, but do not boil! Remove from heat and add vanilla. Divide between 4 mugs. 4. Add the cream to the mugs of cocoa to cool it to drinking temperature."
+    },
+    {
+        "id":"24",
+        "name_of_recipe": "Vanilla Ice Cream",
+        "image_url": "https://img.buzzfeed.com/video-api-prod/assets/89368e479e5a49eca1295227abdd3a95/Hot_Chocolate_C.jpg",
+        "url": "https://www.allrecipes.com/recipe/20211/creamy-hot-cocoa/",
+        "ingredients":["heavy cream", "sugar", "salt", "half and half"],
+        "filters": ["american", "vegetarian"],
+        "steps": "1. In a small pot, simmer heavy cream, milk, sugar and salt until sugar completely dissolves, about 5 minutes. Remove pot from heat. 2. In a separate bowl, whisk yolks. Whisking constantly, slowly whisk about a third of the hot cream into the yolks, then whisk the yolk mixture back into the pot with the cream. 3. Return pot to medium-low heat and gently cook until mixture is thick enough to coat the back of a spoon (about 170 degrees on an instant-read thermometer)."
+    }
+]
